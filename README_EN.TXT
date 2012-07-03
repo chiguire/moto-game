@@ -1,0 +1,14 @@
+Name: Moto
+Created by: Ciro Durán <ciro@elchiguireliterario.com> for the Challenge #2 for Devigames USB.
+Date: August 14th, 2011.
+
+Required libraries (included): Flixel 2.5, as3signals
+Playing instructions: Use up/down to accelerate/decelerate. 
+                      Left/right to steer.
+
+Objective: Get emails that pop up in the middle of the field. Avoid 
+           enemies that shoot you on sight. Beware of portals that
+           might transport you anywhere in the world.
+
+Compilation: Use Flex SDK 3.5 or later. You can import this project in FlashDevelop, it's
+             organized to work in that IDE.
